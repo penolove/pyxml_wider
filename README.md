@@ -33,9 +33,14 @@ files will be saved in Wider2017 folder
 for the mean w,h for Wider face is :
 (28.5,36.9)
 
-wh k-means with k=4
-          w         h
-1  61.88674  80.28675
-2 400.33972 529.26481
-3  14.76915  18.80862
-4 169.08034 225.56282
+wh k-means with k=4:
+
+
+| w         | h           | 
+| ------------- |:-------------:| 
+| 61.88       | 80.28 | 
+| 400.33      | 529.26      | 
+| 14.76 | 18.8      | 
+| 169.08 | 225.56      | 
+
+![alt tag](https://raw.githubusercontent.com/penolove/pyxml_wider/master/WiderfaceWH.png)
